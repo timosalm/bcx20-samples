@@ -1,0 +1,9 @@
+applications:
+  - name: spring-boot-kotlin-gradle-sample
+    buildpacks:
+      - java_buildpack
+    memory: 1G
+    random-route: true
+    path: build/libs/kotlin-spring-boot-gradle-sample-0.0.1-SNAPSHOT.jar
+    env:
+      JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 11.+ }}'

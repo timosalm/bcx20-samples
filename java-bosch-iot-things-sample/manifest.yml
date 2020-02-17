@@ -1,0 +1,9 @@
+applications:
+  - name: java-bosch-iot-things-sample
+    buildpacks:
+      - java_buildpack
+    memory: 1G
+    random-route: true
+    path: target/java-bosch-iot-things-0.0.1-SNAPSHOT.jar
+    env:
+      JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 11.+ }}'

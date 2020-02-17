@@ -1,0 +1,8 @@
+things-api:
+  token-endpoint: https://access.bosch-iot-suite.com/token
+  client-id: YOUR_CLIENT_ID
+  client-secret: YOUR_CLIENT_SECRET
+  scopes: YOUR_SCOPE(S) # e.g. service:iot-things-eu-1:0d7ab098-ebca-4964-89b1-079f6615e982_things/full-access
+  websocket-endpoint: wss://things.eu-1.bosch-iot-suite.com
+
+

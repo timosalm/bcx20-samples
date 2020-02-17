@@ -1,0 +1,6 @@
+applications:
+- name: golang-sample
+  buildpacks:
+  - https://github.com/cloudfoundry/go-buildpack
+  memory: 1G
+  random-route: true

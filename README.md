@@ -2,3 +2,5 @@
 
 https://www.bic4bcx.de
 
+
+See README.md in the subdirectories for further documentation!!!

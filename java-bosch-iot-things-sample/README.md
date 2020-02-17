@@ -1,4 +1,4 @@
-# BCX20 Spring Boot Kotlin sample code for Bosch IoT Cloud
+# BCX20 Spring Boot Java sample code for Bosch IoT Cloud
 
 https://docs.cloudfoundry.org/buildpacks/java/index.html
 https://docs.bosch-iot-suite.com/things/dev-guide/java-api/
